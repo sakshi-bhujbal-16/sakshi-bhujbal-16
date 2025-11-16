@@ -1,93 +1,92 @@
-<!-- HEADER -->
-<h1 align="center">✨ Hey! I'm Sakhi Bhujbal ✨</h1>
-<h3 align="center">DevOps & Cloud Enthusiast </h3>
-
+<h1 align="center">👋 Hi, I'm Sakshi Bhujbal </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" />
+  <strong>DevOps & Cloud Enthusiast C</strong>
 </p>
 
 ---
 
-## 👩‍💻 About Me  
+## 🧑‍💻 About Me  
+I’m a passionate DevOps & Cloud enthusiast currently pursuing **BE in Electronics & Telecommunication (E&TC)**.  
+I enjoy working with cloud platforms, automation tools, and building scalable infrastructure.  
+My focus areas include:
 
-Hi there! I'm Sakshi Bhujbal, a passionate **DevOps & Cloud enthusiast** currently pursuing BE in **Electronics & Telecommunication Engineering**.  
-I love building projects that involve:
+- AWS Cloud Services  
+- DevOps Practices & CI/CD  
+- Infrastructure Automation  
+- Docker & Kubernetes  
+- Linux & Git  
 
-✔ Cloud Computing (AWS)  
-✔ Automation  
-✔ Scalable Architectures  
-✔ CI/CD  
-✔ Containers & Orchestration  
-
-I enjoy learning new tools, solving real-world problems, and improving systems with automation and DevOps best practices.  
+I love turning ideas into structured, automated, and scalable systems.
 
 ---
 
-## 🚀 Skills & Tools  
+## 🚀 Skills & Technologies  
 
-### 🛠 DevOps & Cloud  
+### **Cloud & DevOps**
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-131A22?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-001E2B?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1B3A57?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+  <img src="https://img.shields.io/badge/Terraform-0C0C0C?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
+  <img src="https://img.shields.io/badge/Ansible-0D1117?style=for-the-badge&logo=ansible&logoColor=EE0000"/>
+  <img src="https://img.shields.io/badge/Git-F6F8FA?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
-### 📊 Monitoring  
+### **Monitoring & Performance**
 <p align="left">
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-1A1A1A?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+  <img src="https://img.shields.io/badge/Prometheus-1A1A1A?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+</p>
+
+### **Frontend Basics**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 📌 Featured Projects  
 
-### 🔹 **1. Static Website Hosting on AWS S3**
-- Hosted HTML, CSS, and JS using AWS S3  
-- Enabled public static hosting  
-- Uploaded objects manually  
-- Bucket name: **my-portfolio-bucket-16**
+### 🔹 **Static Website Hosting on AWS S3**
+- Hosted HTML, CSS, and JS files using S3  
+- Enabled static hosting + configured public access  
+- Uploaded files as S3 objects  
+- Bucket Name: `my-portfolio-bucket-16`
 
-### 🔹 **2. Kubernetes + Docker Scalable App**
-- Built & containerized application using Docker  
-- Deployed using Kubernetes (Deployments, Services, Pods)  
-- Implemented basic DevOps configuration
+### 🔹 **Scalable App Deployment with Kubernetes & Docker**
+- Containerized app using **Docker**
+- Deployed on **Kubernetes** using Deployments & Services  
+- Implemented environment-specific configuration  
+
 
 ---
 
-## 📈 GitHub Stats  
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=<github-username>&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<github-username>&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=<github-username>&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<github-username>&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let's Connect  
-
+## 🤝 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/<linkedin>/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <a href="http://www.linkedin.com/in/sakshi-bhujbal-049a7b2a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:<email>">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  <a href="mailto:sakshibhujbal725@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/<github-username>">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+  <a href="https://github.com/sakshi-bhujbal-16">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://staticportfoliohosting.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 💡 Fun Fact  
-I’m always open to learning, collaborating, and exploring new DevOps tools.  
-If you want to discuss cloud, automation, or projects — feel free to drop a message! 😊
-
----
-
-<p align="center">⭐ Thanks for visiting my GitHub profile! ⭐</p>
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
