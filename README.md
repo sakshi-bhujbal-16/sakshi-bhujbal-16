@@ -1,11 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sakshi Bhujbal👋
 ## Cloud & DevOps Engineer | Infrastructure as Code Enthusiast
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=70&animation=fadeIn" />
 </p>
 
----
 
 ### 💫 About Me
 - 🔭 I’m currently working on **Automating CI/CD pipelines and Kubernetes orchestration.**
@@ -14,7 +13,6 @@
 - 💬 Ask me about **AWS, Docker, K8s, or Linux.**
 - 📫 How to reach me: **[Your Email/LinkedIn]**
 
----
 
 ### 🚀 Technologies & Tools
 
@@ -42,8 +40,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[sakshi-bhujbal-16]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sakshi-bhujbal-16]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -55,8 +53,8 @@
 ---
 
 ### ⚡ Activity Graph
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USERNAME]&theme=github-compact)
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[sakshi-bhujbal-16]&theme=github-compact)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[sakshi-bhujbal-16]&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
