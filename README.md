@@ -1,60 +1,62 @@
-# Hi there, I'm Sakshi Bhujbal👋
-## Cloud & DevOps Engineer | Infrastructure as Code Enthusiast
+# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> Hi, I'm Sakshi Bhujbal | Cloud & DevOps Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Anup%20J&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
+## 👨‍💻 Professional Summary
+> **Architecting the Future of Scalable Applications.**
+>
+> I am a dedicated **Cloud & DevOps Engineer** with a passion for building and automating robust infrastructure. With a strong background in **Full-Stack Development (Python/Django)**, I bridge the gap between software creation and system stability. I specialize in containerization with **Docker & Kubernetes**, infrastructure automation with **Terraform**, and building seamless **CI/CD pipelines** that empower developers to ship code faster and more reliably.
 
-### 💫 About Me
-- 🔭 I’m currently working on **Automating CI/CD pipelines and Kubernetes orchestration.**
-- 🌱 I’m currently learning **Advanced Terraform and GoLang for Cloud.**
-- 👯 I’m looking to collaborate on **Open Source DevOps tools.**
-- 💬 Ask me about **AWS, Docker, K8s, or Linux.**
-- 📫 How to reach me: **[Your Email/LinkedIn]**
+---
 
+### 🛠️ Tech Stack Pipeline
 
-### 🚀 Technologies & Tools
-
+#### **☁️ Cloud & Infrastructure (DevOps)**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,ansible,linux,bash,nginx" />
+  </a>
+</p>
+
+#### **💻 Development & Full-Stack**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,postgres,mysql,git,github,vscode" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[sakshi-bhujbal-16]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sakshi-bhujbal-16]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-bhujbal-16&show_icons=true&theme=tokyonight&border_radius=10" alt="Sakshi's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-bhujbal-16&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
 ---
 
-### 🛠️ My Workflow Pipeline
-
-> **Code** ➔ **Build** ➔ **Test** ➔ **Deploy** ➔ **Monitor**
+### 📈 Deployment Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-bhujbal-16&theme=dracula&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
-### ⚡ Activity Graph
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[sakshi-bhujbal-16]&theme=github-compact)
+### 🔭 Current Focus
+- 🏗️ **Infrastructure:** Scaling microservices using AWS EKS.
+- 🐍 **Backend:** Developing secure REST APIs with Django & Python.
+- 🤖 **Automation:** Mastering GitOps with ArgoCD.
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="mailto:sakshibhujbal16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[sakshi-bhujbal-16]&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
