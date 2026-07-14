@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Sakshi%20Bhujbal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%&%20%DevOps%20%Engineer%20%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Sakshi%20Bhujbal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Engineer;AWS+%7C+DevOps+Engineer;Python+Developer;Terraform+%7C+Docker+%7C+Kubernetes;Open+to+Work+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
