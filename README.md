@@ -146,28 +146,3 @@
 
 ---
 
-<!-- ANIMATED HEADER: DEV VIBES -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=60&text=Dev%20Vibes%20%26%20Fun&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Dev Vibes Header"/>
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes" width="90%"/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Jokes" width="90%"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi-bhujbal-16&label=Profile%20Views&color=2575FC&style=flat-square" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:00C9FF&height=120&section=footer" alt="Footer Banner"/>
-</p>
