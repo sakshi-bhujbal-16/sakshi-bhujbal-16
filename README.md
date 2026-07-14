@@ -16,13 +16,13 @@ Cloud | DevOps | AWS | Python
 ---
 <div align="center">
 <h2 align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
   About Me
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
 </h2>
 
 <p align="center">
-I'm <b>Sakshi Bhujbal</b>, a passionate <b>Cloud & DevOps Enthusiast</b> dedicated to building scalable, secure, and automated cloud solutions. I enjoy working with <b>AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, and Python</b> to simplify infrastructure and streamline software delivery through automation. I believe in continuous learning, solving real-world challenges, and building impactful projects that enhance reliability, efficiency, and performance. 🚀
+
+I'm Sakshi Bhujbal, a passionate <b>Cloud & DevOps Enthusiast</b> dedicated to building scalable, secure, and automated cloud solutions. I enjoy working with AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, and Python to simplify infrastructure and streamline software delivery through automation. I believe in continuous learning, solving real-world challenges, and building impactful projects that enhance reliability, efficiency, and performance. 
+
 </p>
 📫 Reach me at:
 
