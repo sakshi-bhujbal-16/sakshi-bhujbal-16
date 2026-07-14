@@ -1,14 +1,3 @@
-To make your section titles animated, highly professional, and visually stunning, we can replace the plain text markdown headings (`## About Me`) with **dynamic, custom-designed SVGs** using the Capsule Render API.
-
-This will give your titles a sleek, unified, animated design (using smooth fade-ins and gradient backgrounds) that perfectly matches the aesthetic of your top and bottom waving banners.
-
-Here is your updated, fully polished GitHub README code:
-
----
-
-## 📄 Copy & Paste this Code into your `README.md`
-
-```markdown
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Sakshi%20Bhujbal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer%20%7C%20AWS&descAlignY=55"/>
 </p>
@@ -182,5 +171,3 @@ Here is your updated, fully polished GitHub README code:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:00C9FF&height=120&section=footer"/>
 </p>
-
-```
