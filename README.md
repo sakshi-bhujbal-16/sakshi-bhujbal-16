@@ -6,10 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Engineer;AWS+%7C+DevOps+Engineer;Python+Developer;Terraform+%7C+Docker+%7C+Kubernetes;Open+to+Work+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Engineer;AWS+%7C+DevOps+Engineer;Python+Developer;Terraform+%7C+Docker+%7C+Kubernetes;Open+to+Work+%F0%9F%9A%80" />
-</p>
-
 ---
 
 <!-- ANIMATED HEADER: ABOUT ME -->
