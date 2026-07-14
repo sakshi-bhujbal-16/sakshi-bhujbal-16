@@ -17,17 +17,15 @@ Cloud | DevOps | AWS | Python | Software Developer
 
 ## 🚀 About Me
 
-🎓 Bachelor of Engineering (Computer Engineering)
+## 🚀 About Me
 
-☁️ Passionate about Cloud Computing & DevOps
+Hello! I'm **Sakshi Bhujbal**, a motivated **Cloud & DevOps Engineer** who is passionate about building scalable, secure, and highly available cloud solutions. I enjoy automating infrastructure, optimizing deployment pipelines, and implementing DevOps best practices to improve software delivery and operational efficiency.
 
-🐳 Learning Docker, Kubernetes & Terraform
+My technical expertise includes **Amazon Web Services (AWS)**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **Git**, **GitHub Actions**, **Linux**, **Python**, **Bash Scripting**, **MySQL**, and **Monitoring tools such as Prometheus and Grafana**. I have hands-on experience with **Infrastructure as Code (IaC)**, **CI/CD automation**, **container orchestration**, **cloud networking**, **server administration**, and **application deployment**.
 
-⚙️ Building CI/CD Pipelines using Jenkins & GitHub Actions
+I am passionate about continuous learning and enjoy working on real-world cloud and DevOps projects that involve automation, infrastructure provisioning, monitoring, and deployment. I am always exploring new technologies to improve system reliability, performance, and scalability.
 
-🌱 Currently learning AWS Advanced Services
-
-💻 Interested in Python, Backend Development & Automation
+Currently, I am focused on strengthening my expertise in **Cloud Computing**, **DevOps**, **Site Reliability Engineering (SRE)**, **AWS Services**, **Kubernetes**, **Terraform**, **Python Automation**, and **Cloud Security**. I am actively seeking opportunities where I can contribute, learn from experienced professionals, and grow as a Cloud & DevOps Engineer.
 
 📫 Reach me at:
 
