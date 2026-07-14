@@ -15,18 +15,15 @@ Cloud | DevOps | AWS | Python | Software Developer
 
 ---
 
-## 🚀 About Me
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
+  About Me
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
+</h2>
 
-## 🚀 About Me
-
-Hello! I'm **Sakshi Bhujbal**, a motivated **Cloud & DevOps Engineer** who is passionate about building scalable, secure, and highly available cloud solutions. I enjoy automating infrastructure, optimizing deployment pipelines, and implementing DevOps best practices to improve software delivery and operational efficiency.
-
-My technical expertise includes **Amazon Web Services (AWS)**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **Git**, **GitHub Actions**, **Linux**, **Python**, **Bash Scripting**, **MySQL**, and **Monitoring tools such as Prometheus and Grafana**. I have hands-on experience with **Infrastructure as Code (IaC)**, **CI/CD automation**, **container orchestration**, **cloud networking**, **server administration**, and **application deployment**.
-
-I am passionate about continuous learning and enjoy working on real-world cloud and DevOps projects that involve automation, infrastructure provisioning, monitoring, and deployment. I am always exploring new technologies to improve system reliability, performance, and scalability.
-
-Currently, I am focused on strengthening my expertise in **Cloud Computing**, **DevOps**, **Site Reliability Engineering (SRE)**, **AWS Services**, **Kubernetes**, **Terraform**, **Python Automation**, and **Cloud Security**. I am actively seeking opportunities where I can contribute, learn from experienced professionals, and grow as a Cloud & DevOps Engineer.
-
+<p align="center">
+I'm <b>Sakshi Bhujbal</b>, a passionate <b>Cloud & DevOps Enthusiast</b> dedicated to building scalable, secure, and automated cloud solutions. I enjoy working with <b>AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, and Python</b> to simplify infrastructure and streamline software delivery through automation. I believe in continuous learning, solving real-world challenges, and building impactful projects that enhance reliability, efficiency, and performance. 🚀
+</p>
 📫 Reach me at:
 
 **your_email@gmail.com**
