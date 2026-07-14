@@ -14,14 +14,9 @@ Cloud | DevOps | AWS | Python | Software Developer
 </p>
 
 ---
-<div align="center">
-
-![](https://img.shields.io/badge/About%20Me-☁️%20Cloud%20Engineer-blueviolet?style=for-the-badge)
-
-</div>
-
 <p align="center">
-Hi, I'm <b>Sakshi Bhujbal</b>, a Cloud & DevOps Enthusiast passionate about automation, cloud infrastructure, and scalable deployments. I work with <b>AWS • Docker • Kubernetes • Terraform • Jenkins • Linux • Git • Python</b> to build efficient and reliable solutions. My goal is to continuously learn, innovate, and develop cloud-native applications that make infrastructure simpler, smarter, and more resilient.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=☁️+About+Me;Cloud+%26+DevOps+Enthusiast;Always+Learning+🚀" />
+Hi, I'm Sakshi Bhujbal, a passionate Cloud & DevOps Enthusiast with a strong interest in cloud computing, automation, and modern infrastructure. I enjoy building reliable and scalable solutions using AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, and Python. My goal is to continuously enhance my technical expertise, embrace emerging cloud technologies, and build efficient, secure, and automated systems that solve real-world challenges. 🚀
 </p>
 📫 Reach me at:
 
